@@ -1,0 +1,86 @@
+Oracle Technology Network
+Java
+Java SE
+Downloads
+    Java SE
+    Java EE
+    Java ME
+    Java SE Subscription
+    Java Embedded
+    Java Card
+    Java TV
+    Community
+    Java Magazine
+
+    Overview
+    Downloads
+    Documentation
+    Community
+    Technologies
+    Training
+
+Java SE Downloads
+
+Java SE Downloads
+Java Platform (JDK) 11
+	
+Java Platform, Standard Edition
+Java SE 11.0.1(LTS)
+Java SE 11.0.1 is the latest release for the Java SE 11 Platforms
+Learn more arrow
+
+    Installation Instructions
+    Release Notes
+    Oracle JDK License
+    Java SE Licensing Information User Manual
+        Includes Third Party Licenses
+    Certified System Configurations
+    Readme
+
+	
+Oracle JDK
+Download JDK
+
+Looking for Oracle OpenJDK builds?
+
+    Oracle Customers and ISVs targeting Oracle LTS releases: Oracle JDK is Oracle's supported Java SE version for customers and for developing, testing, prototyping or demonstrating your Java applications.
+    End users and developers looking for free JDK versions: Oracle OpenJDK offers the same features and performance as Oracle JDK under the GPL license.
+
+To Learn more about these options visit Oracle JDK Releases for Java 11 and Later
+Java SE 8u191 / Java SE 8u192
+Java SE 8u191 / Java SE 8u192 includes important bug fixes. Oracle strongly recommends that all Java SE 8 users upgrade to this release.
+Learn more arrow
+
+    Installation Instructions
+    Release Notes
+    Oracle License
+    Java SE Licensing Information User Manual
+        Includes Third Party Licenses
+    Certified System Configurations
+    Readme Files
+        JDK ReadMe
+        JRE ReadMe
+
+	
+JDK
+Download JDK
+Server JRE
+Download JDK
+JRE
+Download JRE
+
+Which Java package do I need?
+
+    Software Developers: JDK (Java SE Development Kit). For Java Developers. Includes a complete JRE plus tools for developing, debugging, and monitoring Java applications.
+    Administrators running applications on a server:  Server JRE (Server Java Runtime Environment) For deploying Java applications on servers. Includes tools for JVM monitoring and tools commonly required for server applications, but does not include browser integration (the Java plug-in), auto-update, nor an installer. Learn more arrow
+    End user running Java on a desktop: JRE: (Java Runtime Environment). Covers most end-users needs. Contains everything required to run Java applications on your system.
+
+Java SE 7, and Java SE 6 updates
+Updates for Java SE 7 released after April 2015, and updates for Java SE 6 released after April 2013 are only available to Oracle Customers through My Oracle Support (requires support login). 
+
+Java SE Subscription offers users commercial features, access to critical bug fixes, security fixes, and general maintenance.
+Early Access Releases
+Early access versions of future releases of the JDK and the JRE are available for testing. These early access releases include future update and future major releases. These releases are licensed only for testing, not for use in production. 	
+
+ 
+Early Access of Java SE Releases
